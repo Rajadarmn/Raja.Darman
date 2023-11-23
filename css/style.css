@@ -34,7 +34,7 @@ header{
     justify-content: space-between;
     align-items: center;
     padding: 30px 170px;
-    background-color: var(--bg-color);
+    background-color:black;
 
 }
 .logo{
@@ -73,11 +73,13 @@ section{
     grid-gap: 1,5rem;
     align-items: center;
 }
+.home-img{
+    margin-left: 10rem;
+}
 .home-img img {
     max-width: 100%;
     width: 400px;
     height: auto;
-
 }
 .home-text h1{
     color: var(--main-color);
